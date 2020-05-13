@@ -1,0 +1,104 @@
+﻿NUMÉRO;NOM;REGION;CHEF LIEU;SUPERFICIE (km²);POPULATION;DENSITE (habitants/km2)
+01;Ain;Auvergne-Rhône-Alpes;Bourg-en-Bresse;5 762;631 877;109,7
+02;Aisne;Hauts-de-France;Laon;7 369;538 659;73,1
+03;Allier;Auvergne-Rhône-Alpes;Moulins;7 340;341 613;46,5
+04;Alpes-de-Haute-Provence;Provence-Alpes-Côte d'Azur;Digne;6 925;161 799;23,4
+05;Hautes-Alpes;Provence-Alpes-Côte d'Azur;Gap;5 549;140 916;25,4
+06;Alpes-Maritimes;Provence-Alpes-Côte d'Azur;Nice;4 299;1 082 440;251,8
+07;Ardèche;Auvergne-Rhône-Alpes;Privas;5 529;324 209;58,6
+08;Ardennes;Grand Est;Charleville-Mézières;5 229;277 752;53,1
+09;Ariège;Occitanie;Foix;4 890;152 499;31,2
+10;Aube;Grand Est;Troyes;6 004;309 056;51,5
+11;Aude;Occitanie;Carcassonne;6 139;366 957;59,8
+12;Aveyron;Occitanie;Rodez;8 735;279 169;32
+13;Bouches-du-Rhône;Provence-Alpes-Côte d'Azur;Marseille;5 088;2 016 622;396,4
+14;Calvados;Normandie;Caen;5 548;693 579;125
+15;Cantal;Auvergne-Rhône-Alpes;Aurillac;5 726;146 219;25,5
+16;Charente;Nouvelle-Aquitaine;Angoulême;5 956;353 613;59,4
+17;Charente-Maritime;Nouvelle-Aquitaine;La Rochelle;6 864;639 938;93,2
+18;Cher;Centre-Val de Loire;Bourges;7 235;308 992;42,7
+19;Corrèze;Nouvelle-Aquitaine;Tulle;5 857;241 871;41,3
+2A;Corse-du-Sud;Corse;Ajaccio;4 014;152 730;38
+2B;Haute-Corse;Corse;Bastia;4 666;174 553;37,4
+21;Côte-d'Or;Bourgogne-Franche-Comté;Dijon;8 763;533 147;60,8
+22;Côtes d'Armor;Bretagne;Saint-Brieuc;6 878;598 357;87
+23;Creuse;Nouvelle-Aquitaine;Guéret;5 565;120 365;21,6
+24;Dordogne;Nouvelle-Aquitaine;Périgueux;9 060;415 417;45,9
+25;Doubs;Bourgogne-Franche-Comté;Besançon;5 233;536 959;102,6
+26;Drôme;Auvergne-Rhône-Alpes;Valence;6 530;504 637;77,3
+27;Eure;Normandie;Évreux;6 040;601 948;99,7
+28;Eure-et-Loir;Centre-Val de Loire;Chartres;5 880;434 035;73,8
+29;Finistère;Bretagne;Quimper;6 733;907 796;134,8
+30;Gard;Occitanie;Nîmes;5 853;738 189;126,1
+31;Haute-Garonne;Occitanie;Toulouse;6 309;1 335 103;211,6
+32;Gers;Occitanie;Auch;6 257;190 932;30,5
+33;Gironde;Nouvelle-Aquitaine;Bordeaux;9 976;1 548 478;155,2
+34;Hérault;Occitanie;Montpellier;6 101;1 120 190;183,6
+35;Ille-et-Vilaine;Bretagne;Rennes;6 775;1 042 884;153,9
+36;Indre;Centre-Val de Loire;Châteauroux;6 791;224 200;33
+37;Indre-et-Loire;Centre-Val de Loire;Tours;6 127;604 966;98,7
+38;Isère;Auvergne-Rhône-Alpes;Grenoble;7 432;1 251 060;168,3
+39;Jura;Bourgogne-Franche-Comté;Lons-le-Saunier;4 999;260 587;52,1
+40;Landes;Nouvelle-Aquitaine;Mont-de-Marsan;9 243;403 234;43,6
+41;Loir-et-Cher;Centre-Val de Loire;Blois;6 343;333 050;52,5
+42;Loire;Auvergne-Rhône-Alpes;Saint-Étienne;4 781;759 411;158,9
+43;Haute-Loire;Auvergne-Rhône-Alpes;Le Puy-en-Velay;4 977;227 034;45,6
+44;Loire-Atlantique;Pays de la Loire;Nantes;6 809;1 365 227;200,5
+45;Loiret;Centre-Val de Loire;Orléans;6 775;673 349;99,4
+46;Lot;Occitanie;Cahors;5 217;173 400;33,2
+47;Lot-et-Garonne;Nouvelle-Aquitaine;Agen;5 361;333 417;62,2
+48;Lozère;Occitanie;Mende;5 167;76 309;14,8
+49;Maine-et-Loire;Pays de la Loire;Angers;7 172;810 186;113
+50;Manche;Normandie;Saint-Lô;5 938;499 287;84,1
+51;Marne;Grand Est;Châlons-en-Champagne;8 162;572 293;70,1
+52;Haute-Marne;Grand Est;Chaumont;6 211;179 154;28,8
+53;Mayenne;Pays de la Loire;Laval;5 175;307 940;59,5
+54;Meurthe-et-Moselle;Grand Est;Nancy;5 246;734 403;140
+55;Meuse;Grand Est;Bar-le-Duc;6 211;190 626;30,7
+56;Morbihan;Bretagne;Vannes;6 823;744 813;109,2
+57;Moselle;Grand Est;Metz;6 216;1 044 486;168
+58;Nièvre;Bourgogne-Franche-Comté;Nevers;6 817;211 747;31,1
+59;Nord;Hauts-de-France;Lille;5 743;2 605 238;453,7
+60;Oise;Hauts-de-France;Beauvais;5 860;821 552;140,2
+61;Orne;Normandie;Alençon;6 103;286 618;47
+62;Pas-de-Calais;Hauts-de-France;Arras;6 671;1 472 648;220,7
+63;Puy-de-Dôme;Auvergne-Rhône-Alpes;Clermont-Ferrand;7 970;647 501;81,2
+64;Pyrénées-Atlantiques;Nouvelle-Aquitaine;Pau;7 645;670 032;87,6
+65;Hautes-Pyrénées;Occitanie;Tarbes;4 464;228 582;51,2
+66;Pyrénées-Orientales;Occitanie;Perpignan;4 116;471 038;114,4
+67;Bas-Rhin;Grand Est;Strasbourg;4 755;1 116 658;234,8
+68;Haut-Rhin;Grand Est;Colmar;3 525;762 607;216,3
+69;Rhône;Auvergne-Rhône-Alpes;Lyon;3 249;1 821 995;560,8
+70;Haute-Saône;Bourgogne-Franche-Comté;Vesoul;5 360;237 706;44,3
+71;Saône-et-Loire;Bourgogne-Franche-Comté;Mâcon;8 575;555 408;64,8
+72;Sarthe;Pays de la Loire;Le Mans;6 206;568 445;91,6
+73;Savoie;Auvergne-Rhône-Alpes;Chambéry;6 028;428 204;71
+74;Haute-Savoie;Auvergne-Rhône-Alpes;Annecy;4 388;793 938;180,9
+75;Paris;Ile-de-France;Paris;105;2 206 488;20934,4
+76;Seine-Maritime;Normandie;Rouen;6 278;1 257 699;200,3
+77;Seine-et-Marne;Ile-de-France;Melun;5 915;1 390 121;235
+78;Yvelines;Ile-de-France;Versailles;2 284;1 427 291;624,8
+79;Deux-Sèvres;Nouvelle-Aquitaine;Niort;5 999;374 435;62,4
+80;Somme;Hauts-de-France;Amiens;6 170;571 879;92,7
+81;Tarn;Occitanie;Albi;5 758;386 543;67,1
+82;Tarn-et-Garonne;Occitanie;Montauban;3 718;255 274;68,7
+83;Var;Provence-Alpes-Côte d'Azur;Toulon;5 973;1 048 652;175,6
+84;Vaucluse;Provence-Alpes-Côte d'Azur;Avignon;3 567;557 548;156,3
+85;Vandée;Pays de la Loire;La Roche-sur-Yon;6 720;666 714;99,2
+86;Vienne;Nouvelle-Aquitaine;Poitiers;6 990;434 887;62,2
+87;Haute-Vienne;Nouvelle-Aquitaine;Limoges;5 520;375 795;68,1
+88;Vosges;Grand Est;Épinal;5 874;372 016;63,3
+89;Yonne;Bourgogne-Franche-Comté;Auxerre;7 427;340 903;45,9
+90;Territoire de Belfort;Bourgogne-Franche-Comté;Belfort;609;144 483;237,1
+91;Essonne;Ile-de-France;Évry;1 804;1 276 233;707,3
+92;Hauts-de-Seine;Ile-de-France;Nanterre;176;1 601 569;9120,6
+93;Seine-St-Denis;Ile-de-France;Bobigny;236;1 592 663;6742,9
+94;Val-de-Marne;Ile-de-France;Créteil;245;1 372 389;5601,6
+95;Val-D'Oise;Ile-de-France;Pontoise;1 246;1 215 390;975,5
+971;Guadeloupe;Guadeloupe;Basse-Terre;1 628;397 990;244,4
+972;Martinique;Martinique;Fort-de-France;1 128;380 877;337,7
+973;Guyane;Guyane;Cayenne;83 534;259 865;3,1
+974;La Réunion;La Réunion;Saint-Denis;2 504;850 727;339,8
+976;Mayotte;Mayotte;Dzaoudzi;376;256 518;682,2
+;;;;;;
+fichier téléchargé depuis le site regions-et-departements.fr;;;;;;
